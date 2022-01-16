@@ -1,4 +1,4 @@
     kill
     spot
     circulation
-    welfare
+    finger
